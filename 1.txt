@@ -4,3 +4,7 @@ and
 I am adding 
 another line to this file and lets see what happens now
 alright all good
+This is 1.txt file bu yeah
+and
+I am adding 
+another line to this file and hurray it is
