@@ -1,6 +1,6 @@
-This is 1.txt file
+This is 1.txt file alright ?
 but i am trying to disobey here
 and
 I am adding 
-another line to this file
+another line to this file and lets see what happens now
 alright all good
